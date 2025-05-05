@@ -57,3 +57,5 @@ dump.rdb
 
 # Qdrant data
 qdrant_data/
+
+.vercel
